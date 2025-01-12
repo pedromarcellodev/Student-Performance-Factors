@@ -13,12 +13,11 @@ Os dados utilizados neste projeto foram extraídos do [Kaggle - Student Performa
 
 ## Tecnologias Utilizadas
 
-- **Pandas**: Manipulação e análise de dados.
-- **NumPy**: Cálculos numéricos e manipulação de arrays.
-- **Seaborn e Matplotlib**: Visualização de dados.
-- **Scikit-learn**: Modelos de machine learning e métricas de avaliação.
-- **Warnings**: Controle de mensagens de aviso.
-
+- **Pandas**
+- **NumPy**
+- **Seaborn e Matplotlib**
+- **Scikit-learn**
+  
 ## Modelos Utilizados
 
 Foram aplicados diferentes modelos de machine learning para prever o desempenho acadêmico dos alunos, incluindo:
